@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.K.M. Mostofa Kamal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #77a3d0 3px solid;
+        }
+        header a {
+            color: #fff;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 16px;
+        }
+        header ul {
+            padding: 0;
+            list-style: none;
+        }
+        header li {
+            display: inline;
+            padding: 0 20px 0 20px;
+        }
+        .bio, .skills, .experience, .education, .contact {
+            padding: 20px;
+            margin-top: 20px;
+            background: #fff;
+        }
+        h1, h2, h3 {
+            margin-top: 0;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>A.K.M. Mostofa Kamal</h1>
+        </div>
+    </header>
+    <div class="container">
+        <section class="bio">
+            <h2>About Me</h2>
+            <p>Experienced and goal-oriented executive specializing in maintenance management within the dynamic and demanding context of EVINCE Group. Skilled in guiding cross-functional teams to maximize operational efficiency, minimize downtime, and improve overall equipment effectiveness. Demonstrated success in implementing preventive maintenance strategies to guarantee the reliability and durability of vital assets. Actively seeking opportunities to apply expertise and leadership abilities to propel organizational success.</p>
+        </section>
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Maintenance Management</li>
+                <li>Preventive Maintenance</li>
+                <li>Attention to detail and ability to work under pressure</li>
+                <li>Team Leadership</li>
+                <li>Equipment Reliability</li>
+                <li>Cross-functional Collaboration</li>
+                <li>Cost Optimization</li>
+                <li>Training and Development</li>
+                <li>Strategic Planning</li>
+                <li>Data Analytics</li>
+                <li>Presentation Skills</li>
+                <li>Budget Management</li>
+            </ul>
+        </section>
+        <section class="experience">
+            <h2>Experience</h2>
+            <h3>Executive (Maintenance), EVINCE Group</h3>
+            <p>Plot#33, Sector#7, Mirpur, Dhaka-1216, Apr’21 – Continuing</p>
+            <ul>
+                <li>Spearheaded the development and implementation of preventive maintenance programs, resulting in a 20% reduction in equipment breakdowns.</li>
+                <li>Led a team of maintenance professionals in executing routine inspections and repairs to ensure the continuous operation of critical machinery.</li>
+                <li>Implemented cost-effective maintenance practices, resulting in a 15% decrease in maintenance expenditures without compromising quality and performance.</li>
+                <li>Collaborated with cross-functional teams to identify areas for improvement in equipment reliability and efficiency.</li>
+                <li>Conducted regular training sessions for maintenance staff to enhance technical skills and promote a culture of continuous improvement.</li>
+                <li>Keep detailed records of maintenance activities, repairs, and equipment performance.</li>
+                <li>Undertake other duties as assigned (e.g. Mechanic Evaluation Report, Machine Service Record, Machine Repairing Loss Time Report, Spare Parts Requisition through ERP system etc.).</li>
+                <li>Managed inventory of spare parts and coordinated with suppliers to ensure timely availability.</li>
+                <li>Conduct preventive maintenance measures to extend the lifespan of machinery and reduce the risk of breakdowns.</li>
+                <li>Proven ability to manage and optimize spare parts inventory through the effective use of ERP tools, resulting in improved accuracy and reduced lead times.</li>
+            </ul>
+            <h3>Sales & Marketing Manager, EMPENZO Bangladesh Liaison Office</h3>
+            <p>Sector#3, Uttara, Dhaka-1230, Feb’19 – Mar’21</p>
+            <ul>
+                <li>Developed and executed comprehensive sales and marketing plans, resulting in a 20% increase in revenue within the first year.</li>
+                <li>Led a high-performing sales team, providing coaching and guidance to achieve and exceed targets consistently.</li>
+                <li>Conducted market research to identify opportunities and trends, leading to the introduction of new products that significantly expanded the customer base.</li>
+                <li>Established and maintained key client relationships, ensuring customer satisfaction and loyalty.</li>
+                <li>Collaborated with the product development team to enhance existing products and introduce new ones to meet customer demands.</li>
+            </ul>
+            <h3>Sr. Executive (Sales & Technical), Tech Touch Science & Synergy Ltd.</h3>
+            <p>Middle Badda, Dhaka-1212, Jan’15 – Jan’19</p>
+            <ul>
+                <li>Build and maintain strong relationships with pharmaceutical industry clients.</li>
+                <li>Develop and implement effective sales strategies to achieve targets.</li>
+                <li>Have in-depth knowledge of pharmaceutical machinery to effectively communicate features and benefits to potential clients.</li>
+                <li>Stay updated on industry trends, competitor products, and market demands.</li>
+                <li>Understand the technical specifications and functionalities of pharmaceutical machinery.</li>
+                <li>Provide technical assistance to clients during the sales process and after-sales support.</li>
+                <li>Conduct training sessions for clients on the proper use and maintenance of the machinery.</li>
+                <li>Troubleshoot technical issues and provide solutions to ensure client satisfaction.</li>
+            </ul>
+        </section>
+        <section class="education">
+            <h2>Education</h2>
+            <p><strong>B.Sc. (Engineering)</strong> - Electrical & Electronic Engineering, Daffodil International University, 2014, GPA: 3.48/4</p>
+            <p><strong>H.S.C</strong> - Science, Major General Mahmudul Hasan Adarsha College, Tangail, 2008, GPA: 4.70/5</p>
+            <p><strong>S.S.C</strong> - Science, Jobaida High School, Tangail, 2006, GPA: 4.94/5</p>
+            <h3>Thesis</h3>
+            <p><strong>Title:</strong> Feasibility Study of Wind Power in Bangladesh</p>
+            <p><strong>Content:</strong> Study of the wind turbine power plant in Bangladesh and its impact & potential to implement in different regions.</p>
+        </section>
+        <section class="contact">
+            <h2>Contact Information</h2>
+            <div class="contact-info">
+                <p><strong>Address:</strong> House No: 26, Road No: 03, Block: E, Section: 12, Mirpur, Dhaka-1216</p>
+                <p><strong>Phone:</strong> +8801645-403413</p>
+                <p><strong>Email:</strong> <a href="mailto:mostofaks007@gmail.com">mostofaks007@gmail.com</a></p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
